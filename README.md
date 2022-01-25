@@ -1,12 +1,13 @@
-# Hello, I am Alexander
+### Hello, I am Alexander
+
+## Some info about me
 
 Currently, I am 21 years old and studying as Software Engineer at Howest, Bruges. I am ambitous about code and look forward to learning new features of every programming language. Here are some facts about me:
 
 - My favourite programming language is JavaScript
 - My favourite editor is Visual Studio Code
 - In my free time I like to go to the gym
-- My goal is to start contributeing to Open Source projects
-<br/>
+- My goal is to start contributing to Open Source projects
 
 ### Connect with me:
 
