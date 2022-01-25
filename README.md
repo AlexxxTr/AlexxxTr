@@ -31,7 +31,7 @@ Currently, I am 21 years old and studying as Software Engineer at Howest, Bruges
 
 ## Github Stats
 
-<img align="left" alt="AlexxxTr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=AlexxxTr&show_icons=true&hide_border=true" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexxxTr&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://alexandertruyaert.be
 [twitter]: https://twitter.com/AlexanderTruya1
