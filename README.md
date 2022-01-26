@@ -36,4 +36,4 @@ Currently, I am 21 years old and studying as Software Engineer at Howest, Bruges
 
 [website]: https://alexandertruyaert.be
 [twitter]: https://twitter.com/AlexanderTruya1
-[linkedin]: https://www.linkedin.com/in/alexander-truyaert-03b954152/
+[linkedin]: https://www.linkedin.com/in/alexander-truyaert/
