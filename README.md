@@ -2,7 +2,7 @@
 
 ## Some info about me
 
-Currently, I am 21 years old and studying as Software Engineer at Howest, Bruges. I am ambitous about code and look forward to learning new features of every programming language. Here are some facts about me:
+Currently, I am 22 years old and studying as Software Engineer at Howest, Bruges. I am ambitous about code and look forward to learning new features of every programming language. Here are some facts about me:
 
 - My favourite programming language is JavaScript
 - My favourite editor is Visual Studio Code
