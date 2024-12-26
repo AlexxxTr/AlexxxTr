@@ -1,18 +1,17 @@
-### Hello, I am Alexander
+# Hello, I am Alexander
 
 ## Some info about me
 
-Currently, I am 22 years old and studying as Software Engineer at Howest, Bruges. I am ambitous about code and look forward to learning new features of every programming language. Here are some facts about me:
+I am 24 years old and studies as Software Engineer at Howest, Bruges. I am ambitous about code and look forward to learning new features of every programming language. Here are some facts about me:
 
-- My favourite programming language is JavaScript
-- My favourite editor is Visual Studio Code
-- In my free time I like to go to the gym
-- My goal is to start contributing to Open Source projects
+- My favourite programming language is JavaScript/TypeScript and have mainly been focused on Angular develoment
+- My favourite editor is NeoVim
+- In my free time I like to go on bike rides
+- My goal is to start contributing to Open Source projects, with a preferences of working on NeoVim plugins
+- I like to tweak my terminal workflow, but keep it minimal and productive
 
 ### Connect with me:
 
-[<img align="left" alt="alexandertruyaert.be" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 
