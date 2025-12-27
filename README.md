@@ -28,4 +28,8 @@ I am 25 years old and studied as Software Engineer at Howest, Bruges. I am ambit
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br/>
 
+## Certifications
+
+- [Solution Architect - Associate (AWS)](https://www.credly.com/badges/ed44dbdd-8d3c-4988-aadd-89b89b397bf2)
+
 [linkedin]: https://www.linkedin.com/in/alexander-truyaert/
